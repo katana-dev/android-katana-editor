@@ -6,6 +6,9 @@ _This GitHub repository is currently just a mirror for his releases._
 
 **Installing**
 
+Download the latest version from the release page:
+https://github.com/katana-dev/android-katana-editor/releases
+
 Extract the .apk file from the zip. Transfer this file to your Android and install it.
 For example by using a file manager app.
 
