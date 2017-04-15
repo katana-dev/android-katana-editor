@@ -4,6 +4,9 @@ By condor from VGuitarForums.
 
 _This GitHub repository is currently just a mirror for his releases._
 
+For the official releases and forum thread, see:
+[VGuitarForums: KATANA- Condor's Katana AMP GUI Control (MIDI over USB) with Android](http://www.vguitarforums.com/smf/index.php?topic=20234.50)
+
 **Installing**
 
 Download the latest version from the release page:
